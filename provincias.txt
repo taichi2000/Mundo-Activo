@@ -1,0 +1,129 @@
+Esta es una lista de las provincias de Chile ordenadas de norte a sur:
+XV Región de Arica y Parinacota
+
+Capital Regional: Arica
+
+    * Provincia de Arica, Capital: Arica.
+    * Provincia de Parinacota, Capital: Putre.
+
+I Región de Tarapacá
+
+Capital Regional: Iquique.
+
+    * Provincia de Iquique, Capital: Iquique.
+    * Provincia del Tamarugal, Capital: Pozo Almonte.
+
+II Región de Antofagasta
+
+Capital Regional: Antofagasta.
+
+    * Provincia de Tocopilla, Capital: Tocopilla.
+    * Provincia de El Loa, Capital: Calama.
+    * Provincia de Antofagasta, Capital: Antofagasta.
+
+III Región de Atacama
+
+Capital Regional: Copiapó.
+
+    * Provincia de Chañaral, Capital: Chañaral.
+    * Provincia de Copiapó, Capital: Copiapó.
+    * Provincia de Huasco, Capital: Vallenar.
+
+IV Región de Coquimbo
+
+Capital Regional: La Serena.
+
+    * Provincia de Elqui, Capital: Coquimbo.
+    * Provincia de Limarí, Capital: Ovalle.
+    * Provincia de Choapa, Capital: Illapel.
+
+V Región de Valparaíso
+
+Capital Regional: Valparaíso.
+
+    * Provincia de Petorca, Capital: La Ligua.
+    * Provincia de Los Andes, Capital: Los Andes.
+    * Provincia de San Felipe de Aconcagua, Capital: San Felipe.
+    * Provincia de Quillota, Capital: Quillota.
+    * Provincia de Valparaíso, Capital: Valparaíso.
+    * Provincia de San Antonio, Capital: San Antonio.
+    * Provincia de Isla de Pascua, Capital: Hanga Roa.
+    * Provincia de Marga Marga, Capital: Quilpué.
+
+Región Metropolitana Santiago
+
+Capital Regional: Santiago de Chile.
+
+    * Provincia de Chacabuco, Capital: Colina.
+    * Provincia de Santiago, Capital: Santiago.
+    * Provincia de Cordillera, Capital: Puente Alto.
+    * Provincia de Maipo, Capital: San Bernardo.
+    * Provincia de Melipilla, Capital: Melipilla.
+    * Provincia de Talagante, Capital: Talagante.
+
+VI Región del Libertador General Bernardo O'Higgins
+
+Capital Regional: Rancagua.
+
+    * Provincia de Cachapoal, Capital: Rancagua.
+    * Provincia de Colchagua, Capital: San Fernando.
+    * Provincia de Cardenal Caro, Capital: Pichilemu.
+
+VII Región del Maule
+
+Capital Regional: Talca.
+
+    * Provincia de Curicó, Capital: Curicó.
+    * Provincia de Talca, Capital: Talca.
+    * Provincia de Linares, Capital: Linares.
+    * Provincia de Cauquenes, Capital: Cauquenes.
+
+VIII Región del Biobío
+
+Capital Regional: Concepción.
+
+    * Provincia de Ñuble, Capital: Chillán.
+    * Provincia de Biobío, Capital: Los Ángeles.
+    * Provincia de Concepción, Capital: Concepción.
+    * Provincia de Arauco, Capital: Lebu.
+
+IX Región de la Araucanía
+
+Capital Regional: Temuco.
+
+    * Provincia de Malleco, Capital: Angol.
+    * Provincia de Cautín, Capital: Temuco.
+
+XIV Región de Los Ríos
+
+Capital Regional: Valdivia.
+
+    * Provincia de Valdivia, Capital: Valdivia.
+    * Provincia del Ranco, Capital: La Unión.
+
+X Región de Los Lagos
+
+Capital Regional: Puerto Montt.
+
+    * Provincia de Osorno, Capital: Osorno.
+    * Provincia de Llanquihue, Capital: Puerto Montt.
+    * Provincia de Chiloé, Capital: Castro.
+    * Provincia de Palena, Capital: Chaitén.
+
+XI Región de Aisén del General Carlos Ibáñez del Campo
+
+Capital Regional: Coyhaique.
+
+    * Provincia de Coyhaique, Capital: Coyhaique.
+    * Provincia de Aisén, Capital: Puerto Aisén.
+    * Provincia de General Carrera, Capital: Chile Chico.
+    * Provincia de Capitán Prat, Capital: Cochrane.
+
+XII Región de Magallanes y de la Antártica Chilena
+
+Capital Regional: Punta Arenas.
+
+    * Provincia de Última Esperanza, Capital: Puerto Natales.
+    * Provincia de Magallanes, Capital: Punta Arenas.
+    * Provincia de Tierra del Fuego, Capital: Porvenir.
+    * Provincia de la Antártica Chilena, Capital: Puerto Williams.
